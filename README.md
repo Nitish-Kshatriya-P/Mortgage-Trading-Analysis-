@@ -18,12 +18,12 @@ AIM(Assumed): To get the list of loans from the month of october to trade in the
 Data Sources
 The project uses the following six Excel files as data sources:
 
-umbs_prices.xlsx: Contains pricing information for Uniform Mortgage-Backed Securities (UMBS).
-loan_data.xlsx: Contains detailed information about the mortgage loans, including loan IDs, terms, interest rates, and other relevant attributes.
-target_profit.xlsx: Contains the company's estimated (target) profit for each loan.
-loan_bids.xlsx: Contains bid information from investors for each loan, including bidder details and bid amounts.
-loan_status.xlsx: Contains the status of each loan, used to filter loans eligible for trading.
-loan_balances.xlsx: Contains the outstanding balance for each loan.
+1. umbs_prices.xlsx: Contains pricing information for Uniform Mortgage-Backed Securities (UMBS).
+2. loan_data.xlsx: Contains detailed information about the mortgage loans, including loan IDs, terms, interest rates, and other relevant attributes.
+3. target_profit.xlsx: Contains the company's estimated (target) profit for each loan.
+4. loan_bids.xlsx: Contains bid information from investors for each loan, including bidder details and bid amounts.
+5. loan_status.xlsx: Contains the status of each loan, used to filter loans eligible for trading.
+6. loan_balances.xlsx: Contains the outstanding balance for each loan.
 
 Project Overview
 The analysis focuses on mortgage loans for the month of October. The process involves:
